@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "Proyecto 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi expedita ad dolores vel explicabo! Vero, numquam labore neque hic ducimus aliquam? Earum rerum, error, rem ad quasi ipsa magnam veniam cupiditate dicta asperiores, voluptatum voluptatibus possimus dolore facilis vel alias laboriosam reiciendis ullam numquam sit expedita assumenda eos fuga deserunt!",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi expedita ad dolores vel explicabo! Vero, numquam labore neque hic ducimus aliquam? Earum rerum, error, rem ad quasi ipsa magnam veniam cupiditate dicta asperiores, voluptatum voluptatibus possimus dolore facilis vel alias laboriosam reiciendis ullam numquam sit expedita assumenda eos fuga deserunt!",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi expedita ad dolores vel explicabo! Vero, numquam labore neque hic ducimus aliquam? Earum rerum, error, rem ad quasi ipsa magnam veniam cupiditate dicta asperiores, voluptatum voluptatibus possimus dolore facilis vel alias laboriosam reiciendis ullam numquam sit expedita assumenda eos fuga deserunt!",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quasi expedita ad dolores vel explicabo! Vero, numquam labore neque hic ducimus aliquam? Earum rerum, error, rem ad quasi ipsa magnam veniam cupiditate dicta asperiores, voluptatum voluptatibus possimus dolore facilis vel alias laboriosam reiciendis ullam numquam sit expedita assumenda eos fuga deserunt!",
+            "image": "images/fingerprint.svg"
+        }
+    ]
+}
